@@ -1,0 +1,5 @@
+E:\Projetos_Estudos\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD.Dominio\bin\Debug\ProjetoEstudoDDD.Dominio.dll
+E:\Projetos_Estudos\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD.Dominio\bin\Debug\ProjetoEstudoDDD.Dominio.pdb
+E:\Projetos_Estudos\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD.Dominio\obj\Debug\ProjetoEstudoDDD.Dominio.csprojResolveAssemblyReference.cache
+E:\Projetos_Estudos\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD.Dominio\obj\Debug\ProjetoEstudoDDD.Dominio.dll
+E:\Projetos_Estudos\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD.Dominio\obj\Debug\ProjetoEstudoDDD.Dominio.pdb

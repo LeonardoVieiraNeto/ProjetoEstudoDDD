@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0-Apresentacao", "0-Apresentacao", "{89EFEF23-EBA0-4385-9C83-3EFB22BC7047}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Servicos", "1-Servicos", "{4382056C-E2CE-44F6-96D5-C62EF1CE43E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Aplicacao", "2-Aplicacao", "{6AA77C9D-A320-4255-B430-BFF4DF9291AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Dominio", "3-Dominio", "{C6184883-3247-4706-B91C-B21CEEE3767F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Infra", "4-Infra", "{5264E7DC-6CBA-4052-9B75-BAC0621E2A07}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1-Data", "4.1-Data", "{56218B5A-78AD-4500-A07D-73649E935953}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2-CrossCutting", "4.2-CrossCutting", "{0B38E2FC-D745-4E47-BA24-C98913F3280A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoEstudoDDD.MVC", "ProjetoEstudoDDD.MVC\ProjetoEstudoDDD.MVC.csproj", "{DE4CC96F-C991-40E4-9CF0-40DF0453CBD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoEstudoDDD.Dominio", "ProjetoEstudoDDD.Dominio\ProjetoEstudoDDD.Dominio.csproj", "{6A83DCCD-08CE-4A0E-98F9-47484BF40959}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoEstudoDDD.Infra.Data", "ProjetoEstudoDDD.Infra.Data\ProjetoEstudoDDD.Infra.Data.csproj", "{82ABC8DC-7956-4A7B-91AB-4BE3E0EDB99C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoEstudoDDD.Aplicacao", "ProjetoEstudoDDD.Aplicacao\ProjetoEstudoDDD.Aplicacao.csproj", "{92193AC8-694A-4329-B765-8A1E24958C6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE4CC96F-C991-40E4-9CF0-40DF0453CBD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4CC96F-C991-40E4-9CF0-40DF0453CBD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4CC96F-C991-40E4-9CF0-40DF0453CBD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4CC96F-C991-40E4-9CF0-40DF0453CBD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A83DCCD-08CE-4A0E-98F9-47484BF40959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A83DCCD-08CE-4A0E-98F9-47484BF40959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A83DCCD-08CE-4A0E-98F9-47484BF40959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A83DCCD-08CE-4A0E-98F9-47484BF40959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82ABC8DC-7956-4A7B-91AB-4BE3E0EDB99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82ABC8DC-7956-4A7B-91AB-4BE3E0EDB99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82ABC8DC-7956-4A7B-91AB-4BE3E0EDB99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82ABC8DC-7956-4A7B-91AB-4BE3E0EDB99C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92193AC8-694A-4329-B765-8A1E24958C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92193AC8-694A-4329-B765-8A1E24958C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92193AC8-694A-4329-B765-8A1E24958C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92193AC8-694A-4329-B765-8A1E24958C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{56218B5A-78AD-4500-A07D-73649E935953} = {5264E7DC-6CBA-4052-9B75-BAC0621E2A07}
+		{0B38E2FC-D745-4E47-BA24-C98913F3280A} = {5264E7DC-6CBA-4052-9B75-BAC0621E2A07}
+		{DE4CC96F-C991-40E4-9CF0-40DF0453CBD0} = {89EFEF23-EBA0-4385-9C83-3EFB22BC7047}
+		{6A83DCCD-08CE-4A0E-98F9-47484BF40959} = {C6184883-3247-4706-B91C-B21CEEE3767F}
+		{82ABC8DC-7956-4A7B-91AB-4BE3E0EDB99C} = {56218B5A-78AD-4500-A07D-73649E935953}
+		{92193AC8-694A-4329-B765-8A1E24958C6F} = {6AA77C9D-A320-4255-B430-BFF4DF9291AB}
+	EndGlobalSection
+EndGlobal

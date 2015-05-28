@@ -1,0 +1,12 @@
+E:\Projetos_Estudos\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD.Infra.Data\bin\Debug\ProjetoEstudoDDD.Infra.Data.dll
+E:\Projetos_Estudos\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD.Infra.Data\bin\Debug\ProjetoEstudoDDD.Infra.Data.pdb
+E:\Projetos_Estudos\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD.Infra.Data\obj\Debug\ProjetoEstudoDDD.Infra.Data.dll
+E:\Projetos_Estudos\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD.Infra.Data\obj\Debug\ProjetoEstudoDDD.Infra.Data.pdb
+E:\Projetos_Estudos\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD.Infra.Data\bin\Debug\ProjetoEstudoDDD.Dominio.dll
+E:\Projetos_Estudos\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD.Infra.Data\bin\Debug\ProjetoEstudoDDD.Dominio.pdb
+E:\Projetos_Estudos\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD.Infra.Data\obj\Debug\ProjetoEstudoDDD.Infra.Data.csprojResolveAssemblyReference.cache
+E:\Projetos_Estudos\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD.Infra.Data\bin\Debug\ProjetoEstudoDDD.Infra.Data.dll.config
+E:\Projetos_Estudos\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD.Infra.Data\bin\Debug\EntityFramework.dll
+E:\Projetos_Estudos\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projetos_Estudos\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD.Infra.Data\bin\Debug\EntityFramework.xml
+E:\Projetos_Estudos\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
