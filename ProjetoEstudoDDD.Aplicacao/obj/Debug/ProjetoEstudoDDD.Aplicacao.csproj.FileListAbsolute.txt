@@ -2,3 +2,7 @@ E:\Projetos_Estudos\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD.Aplicacao
 E:\Projetos_Estudos\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD.Aplicacao\bin\Debug\ProjetoEstudoDDD.Aplicacao.pdb
 E:\Projetos_Estudos\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD.Aplicacao\obj\Debug\ProjetoEstudoDDD.Aplicacao.dll
 E:\Projetos_Estudos\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD.Aplicacao\obj\Debug\ProjetoEstudoDDD.Aplicacao.pdb
+E:\Projetos_Estudos\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD.Aplicacao\bin\Debug\ProjetoEstudoDDD.Aplicacao.dll
+E:\Projetos_Estudos\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD.Aplicacao\bin\Debug\ProjetoEstudoDDD.Aplicacao.pdb
+E:\Projetos_Estudos\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD.Aplicacao\obj\Debug\ProjetoEstudoDDD.Aplicacao.dll
+E:\Projetos_Estudos\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD\ProjetoEstudoDDD.Aplicacao\obj\Debug\ProjetoEstudoDDD.Aplicacao.pdb
